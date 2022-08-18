@@ -9,3 +9,56 @@ Gustavo just started an e-commerce startup based in Portugal that recently opene
 -Doing customer segmentation
 
 -Give recommendation to company regarding buyer habbits and customer segmentation
+
+## Result
+**Insight from Exploratory Data Analysis (EDA):**
+
+-On average, one order gives 113€ revenue to the company
+
+-Our customers live in 27 state and 3997 city in Portugal
+
+-The top 3 of highest revenue by state code are: SP (4108600€), RJ (1391744€), MG (1242732€)
+
+-The top 3 of highest revenue by city are: Sao Paulo (1496970€), Rio De Janeiro (735291€), and Belo Horizonte (292607€)
+
+-77.59% of company revenue is obtained by credit card. Maybe we can offer to cooperate with some credit card company.
+
+-On average, customers purchase our product from 10.00 PM until 20.00 PM. Then, the lowest purchase time is from 3.00 PM until 5.00 PM
+
+-If we look daily, usually our purchase is low in holiday.
+
+-Total customer order is increased from January 2017 until November 2017. But, from December 2017 until August 2018, the total customer order is stagnant.
+
+**Business Recommendations from Exploratory Data Analysis (EDA):**
+-We can give discount or promotion in our busy hour, namely 10.00 PM until 20.00 PM
+
+-In our busy our (10.00 PM until 20.00 PM), we can offer expensive product advertisement on our website.
+
+-Customer purchase in holiday is low relative than another day, so we can make special promotion in holiday. Maybe, we can give promotion to products that is useful for a holiday.
+
+-From December 2017 until August 2018, the total customer order is stagnant. So, company must increase the innovation in order to attract buyers.
+
+**We do customer segmentation by K-Means in python, and we recommend to make 4 segmentation:**
+
+From the analysis above, we can determine the characteristic of 4 cluster:
+
+-Cluster 0: Middle Buying Power, Risk Averse
+
+-Cluster 1: Low Buying Power
+
+-Cluster 2: Use only credit card, High Buying Power
+
+-Cluster 3: Middle Buying Power, Risk Taker
+
+**Business Recommendation by each segmentation:**
+
+-For cluster 0, we can give them advertisement of cheap goods or simple product. The reason is because the buying power of this group is low.
+
+-For cluster 1, we can give them advertisement of cheap and middle price goods. Although the buying power of this group is medium, they cannot buy expensive goods because they afraid to borrow money.
+
+-For cluster 2, we can give them advertisement of luxury and expensive goods. The reason is because this cluster is having high buying power and all of them have credit card.
+
+-For cluster 3, we can give them advertisement of medium and luxury price goods. We can also give discount and voucher to this cluster so they can buy more.
+
+## Source
+This project is my assignment from RevoU. 
