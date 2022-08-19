@@ -11,24 +11,6 @@ Gustavo just started an e-commerce startup based in Portugal that recently opene
 -Give recommendation to company regarding buyer habbits and customer segmentation
 
 ## Result
-**Insight from Exploratory Data Analysis (EDA):**
-
--On average, one order gives 113€ revenue to the company
-
--Our customers live in 27 state and 3997 city in Portugal
-
--The top 3 of highest revenue by state code are: SP (4108600€), RJ (1391744€), MG (1242732€)
-
--The top 3 of highest revenue by city are: Sao Paulo (1496970€), Rio De Janeiro (735291€), and Belo Horizonte (292607€)
-
--77.59% of company revenue is obtained by credit card. Maybe we can offer to cooperate with some credit card company.
-
--On average, customers purchase our product from 10.00 PM until 20.00 PM. Then, the lowest purchase time is from 3.00 PM until 5.00 PM
-
--If we look daily, usually our purchase is low in holiday.
-
--Total customer order is increased from January 2017 until November 2017. But, from December 2017 until August 2018, the total customer order is stagnant.
-
 **Business Recommendations from Exploratory Data Analysis (EDA):**
 -We can give discount or promotion in our busy hour, namely 10.00 PM until 20.00 PM
 
