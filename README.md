@@ -12,6 +12,7 @@ Gustavo just started an e-commerce startup based in Portugal that recently opene
 
 ## Result
 **Business Recommendations from Exploratory Data Analysis (EDA):**
+
 -We can give discount or promotion in our busy hour, namely 10.00 PM until 20.00 PM
 
 -In our busy our (10.00 PM until 20.00 PM), we can offer expensive product advertisement on our website.
