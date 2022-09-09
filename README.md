@@ -45,3 +45,6 @@ From the analysis above, we can determine the characteristic of 4 cluster:
 
 ## Source
 This project is my assignment from RevoU. 
+
+## My Contact
+If you want more information, please reach me in farhanabdillah10@gmail.com of linkedin https://linkedin.com/in/farhanphame
